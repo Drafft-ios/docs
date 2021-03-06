@@ -8,7 +8,7 @@ ios 개발 관련 docs
 # 🛠 개발 환경
 
 ### 언어
-- swift
+- swift5
 
 ### Architecture
 
@@ -17,4 +17,4 @@ ios 개발 관련 docs
 - KakaoSDK
 - DropDown
 - Alamofire
-- AlamofireObjectMapper
+
