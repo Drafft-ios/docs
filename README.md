@@ -1,5 +1,5 @@
 # docs
-ios 개발 관련 docs
+ios 개발 docs
 
 # 📝 개발 방법론
 ### Agile(애자일)
